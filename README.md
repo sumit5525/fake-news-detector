@@ -6,6 +6,9 @@ as Real or Fake using Natural Language Processing (NLP).
 Built using TF-IDF Vectorization and Logistic Regression 
 achieving high accuracy on unseen data.
 
+## Colab link
+https://colab.research.google.com/drive/12kCSsoR2gJtEyE7tMZdHCMVEkPAopuGP
+
 ## Dataset
 - Format: CSV
 - Columns: ID, Title, Author, Text, Label
