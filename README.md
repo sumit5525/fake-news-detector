@@ -10,6 +10,7 @@ achieving high accuracy on unseen data.
 https://colab.research.google.com/drive/12kCSsoR2gJtEyE7tMZdHCMVEkPAopuGP
 
 ## Dataset
+- source: kaggle
 - Format: CSV
 - Columns: ID, Title, Author, Text, Label
 - Label: 0 = Real News, 1 = Fake News
